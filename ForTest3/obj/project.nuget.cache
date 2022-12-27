@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "74hefqsKV4Y4inDO2jYLjpElT2nwQSKsdOxSaf6ylzl7sEBOYXrm12nDyWpdD2VNVweIfOEbaX0kes4qDD+EzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Михаил\\source\\repos\\ForTest3\\ForTest3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Михаил\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
